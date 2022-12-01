@@ -1,0 +1,57 @@
+#operators and expressions
+#bool types
+#arthamatic operators
++   #addition
+-   #substraction
+/   #divison
+%   #mod
+//  #flore division
+*  #multiplication
+** #power
+6+9
+9-6
+6%9
+6**9
+
+"happy"+"birthday" 
+"happy" "birthday"
+
+#comparision opprators
+==  #equal
+!=  #not equal
+>  #greater than
+<  #less than
+>= #greater than or equal to
+<= #less than or equal to
+
+1==2
+1 != 2
+2>3
+2<3
+"a" < "A"
+
+#logic operators
+#bool fuctions
+
+a or True
+a or False
+a and True 
+a and False
+
+isinstance(True,int)
+#short circuting
+a or b =b (if a is falsy)
+a or b = a (if a is truthy)
+a and b = a (if a is falsy)
+a and b = b (if a is truthy)
+
+True or b =True
+False or b= b
+True and b = b
+False and b = False
+
+#empty is considered as falsey
+1.6 or ""
+bool("")
+"" and 0
+112 and ""
