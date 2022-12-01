@@ -1,0 +1,28 @@
+#input function
+a=input()
+b=input()
+print(a) #given an input to print somthing
+print(b)
+
+a = input()
+123456
+print(a)
+print(type(a))
+
+#type casting
+int a=65
+char b =(char)a;
+
+bin(65)
+
+#typecoercion
+a=15
+str(a)
+
+a = 65
+isinstance(a, object)
+a= 'A'
+isinstance(a, object)
+
+int('1234')
+float('9.08')
