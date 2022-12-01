@@ -1,0 +1,15 @@
+#installing python3 and using basic print() function
+#how to print a word in python
+"by using print() function we can print"
+
+#printng "hello world"
+print("hello world")
+
+
+'''python excute code in line wise'''
+
+# print('hello world')
+# print("hello" "world")
+print("line A")
+print("line B")
+print("iam jaswanth)
